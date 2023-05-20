@@ -7,6 +7,3 @@
 > ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 > [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShterionStamboliev&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
-
-
-> ![visitors](https://visitor-badge.glitch.me/badge?page_id=106755752)
